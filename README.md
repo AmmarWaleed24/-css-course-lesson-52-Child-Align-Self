@@ -28,6 +28,6 @@ This project is open-source. Feel free to use and modify it as needed.
 
 ## Author
 [Ammar Waleed]  
-**GitHub:** [https://github.com/yourgithub](https://github.com/yourgithub)  
+**GitHub:** [https://github.com/AmmarWaleed24)  
 **LinkedIn:** [www.linkedin.com/in/ammarwaleed22](www.linkedin.com/in/ammarwaleed22)
 
