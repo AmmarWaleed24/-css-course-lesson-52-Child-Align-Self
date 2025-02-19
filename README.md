@@ -27,4 +27,6 @@ The specific item will be aligned to the end of the cross-axis, regardless of th
 This project is open-source. Feel free to use and modify it as needed.
 
 ## Author
-[Your Name](https://github.com/yourgithub)
+[Ammar Waleed] 
+#github: (https://github.com/yourgithub)
+#linkedIn: (www.linkedin.com/in/ammarwaleed22)
